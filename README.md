@@ -20,7 +20,7 @@ This is the backend for the Student360 application, a platform for students.
 ### Development
 1. Clone the repo
     ```sh
-    git clone https://github.com/Student360-VN/backend.git
+    https://github.com/htloc0610/TLL_backend
     ```
 
 3. Create a `.env` file by copying the `.env.example` file:
